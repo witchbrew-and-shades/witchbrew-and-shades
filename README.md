@@ -1,7 +1,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=witchbrew-and-shades&color=561D57&abbreviated=true&style=for-the-badge> </p>
 <p align="center"> <img align="center" src=https://readme-typing-svg.demolab.com?font=Carrois+Gothic+SC&duration=8000&pause=750&color=561d57&center=true&width=1080&lines=%E2%80%9DTastes..+weird..%E2%80%9E;%E2%80%9DTastes+like+battery+acid..%E2%80%9E;%E2%80%9DTastes-%E2%80%9E> </p>
 <p align="center"> <img align="center" src=https://file.garden/Z1wsLskJxRiY2oPJ/Untitled1091_20251231212040.jpg height=720> </p>
-<p align="center"> <img align="center" src=https://readme-typing-svg.demolab.com?font=Carrois+Gothic+SC&duration=8000&pause=750&color=3F3244&center=true&width=1080&lines=;%E2%80%9DYour+eyes+feel+a+whole+lot+better...%E2%80%9E;%E2%80%9DVery+cool..%E2%80%9E> </p>
+<p align="center"> <img align="center" src=https://readme-typing-svg.demolab.com?font=Carrois+Gothic+SC&duration=8000&pause=750&color=9893A0&center=true&width=1080&lines=;%E2%80%9DYour+eyes+feel+a+whole+lot+better...%E2%80%9E;%E2%80%9DVery+cool..%E2%80%9E> </p>
 <div align="center">
   <details>
     <summary>     </summary>
